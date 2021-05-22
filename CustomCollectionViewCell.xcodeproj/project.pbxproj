@@ -13,6 +13,7 @@
 		917906602659700600925792 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9179065E2659700600925792 /* Main.storyboard */; };
 		917906622659700700925792 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 917906612659700700925792 /* Assets.xcassets */; };
 		917906652659700700925792 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 917906632659700700925792 /* LaunchScreen.storyboard */; };
+		9179066D265982C700925792 /* CustomCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9179066C265982C700925792 /* CustomCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		917906612659700700925792 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		917906642659700700925792 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		917906662659700700925792 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9179066C265982C700925792 /* CustomCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				917906612659700700925792 /* Assets.xcassets */,
 				917906632659700700925792 /* LaunchScreen.storyboard */,
 				917906662659700700925792 /* Info.plist */,
+				9179066C265982C700925792 /* CustomCollectionViewCell.swift */,
 			);
 			path = CustomCollectionViewCell;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				9179065D2659700600925792 /* ViewController.swift in Sources */,
 				917906592659700600925792 /* AppDelegate.swift in Sources */,
 				9179065B2659700600925792 /* SceneDelegate.swift in Sources */,
+				9179066D265982C700925792 /* CustomCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
